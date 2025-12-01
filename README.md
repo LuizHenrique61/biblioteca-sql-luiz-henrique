@@ -102,7 +102,4 @@ Modelagem de Banco de Dados – Experiência Prática 4
 
 ---
 
-## ✔️ Status
-Projeto finalizado ✓  
-Todos os requisitos atendidos.
 
