@@ -17,7 +17,7 @@ WHERE id_emprestimo = 2;
 -- 3) Corrigir ano de publicação de Clean Code
 UPDATE LIVRO
 SET ano_publicacao = 2010
-WHERE titulo = 'Clean Code';
+WHERE id_livro = 2;
 
 -----------------------
 -- DELETES
